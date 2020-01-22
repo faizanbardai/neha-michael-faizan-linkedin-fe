@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/neha-michael-faizan-linkedin-fe/precache-manifest.669615a4999d10b578b1a3ae7ef7eaa4.js"
+  "/neha-michael-faizan-linkedin-fe/precache-manifest.683f74e3530897e2f604414f9cfc40bd.js"
 );
 
 self.addEventListener('message', (event) => {
