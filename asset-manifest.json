@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/neha-michael-faizan-linkedin-fe/static/css/main.d1b05096.chunk.css",
+    "main.js": "/neha-michael-faizan-linkedin-fe/static/js/main.26a2adcc.chunk.js",
+    "main.js.map": "/neha-michael-faizan-linkedin-fe/static/js/main.26a2adcc.chunk.js.map",
+    "runtime-main.js": "/neha-michael-faizan-linkedin-fe/static/js/runtime-main.f049ae10.js",
+    "runtime-main.js.map": "/neha-michael-faizan-linkedin-fe/static/js/runtime-main.f049ae10.js.map",
+    "static/js/2.7fd6ff51.chunk.js": "/neha-michael-faizan-linkedin-fe/static/js/2.7fd6ff51.chunk.js",
+    "static/js/2.7fd6ff51.chunk.js.map": "/neha-michael-faizan-linkedin-fe/static/js/2.7fd6ff51.chunk.js.map",
+    "index.html": "/neha-michael-faizan-linkedin-fe/index.html",
+    "precache-manifest.669615a4999d10b578b1a3ae7ef7eaa4.js": "/neha-michael-faizan-linkedin-fe/precache-manifest.669615a4999d10b578b1a3ae7ef7eaa4.js",
+    "service-worker.js": "/neha-michael-faizan-linkedin-fe/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/neha-michael-faizan-linkedin-fe/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.7fd6ff51.chunk.js.LICENSE": "/neha-michael-faizan-linkedin-fe/static/js/2.7fd6ff51.chunk.js.LICENSE",
+    "static/media/logo.svg": "/neha-michael-faizan-linkedin-fe/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f049ae10.js",
+    "static/js/2.7fd6ff51.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.26a2adcc.chunk.js"
+  ]
+}
